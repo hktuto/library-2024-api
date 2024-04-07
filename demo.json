@@ -1,0 +1,163 @@
+{
+    "categories": {
+        "disconnect": [],
+        "connect": [
+            {
+                "id": 7,
+                "position": {
+                    "end": true
+                }
+            }
+        ]
+    },
+    "title_HK": "葵青悅繽紛 -「與孩子一起玩樂」展板展覽",
+    "photos": [
+        {
+            "id": 2,
+            "name": "banner-100.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1092,
+            "height": 583,
+            "formats": {
+                "large": {
+                    "ext": ".png",
+                    "url": "https://ethical-card-5135af9639.media.strapiapp.com/large_banner_100_8e40f6608f.png",
+                    "hash": "large_banner_100_8e40f6608f",
+                    "mime": "image/png",
+                    "name": "large_banner-100.png",
+                    "path": null,
+                    "size": 173.18,
+                    "width": 1000,
+                    "height": 534,
+                    "sizeInBytes": 173182
+                },
+                "small": {
+                    "ext": ".png",
+                    "url": "https://ethical-card-5135af9639.media.strapiapp.com/small_banner_100_8e40f6608f.png",
+                    "hash": "small_banner_100_8e40f6608f",
+                    "mime": "image/png",
+                    "name": "small_banner-100.png",
+                    "path": null,
+                    "size": 57.13,
+                    "width": 500,
+                    "height": 267,
+                    "sizeInBytes": 57131
+                },
+                "medium": {
+                    "ext": ".png",
+                    "url": "https://ethical-card-5135af9639.media.strapiapp.com/medium_banner_100_8e40f6608f.png",
+                    "hash": "medium_banner_100_8e40f6608f",
+                    "mime": "image/png",
+                    "name": "medium_banner-100.png",
+                    "path": null,
+                    "size": 112.05,
+                    "width": 750,
+                    "height": 400,
+                    "sizeInBytes": 112050
+                },
+                "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://ethical-card-5135af9639.media.strapiapp.com/thumbnail_banner_100_8e40f6608f.png",
+                    "hash": "thumbnail_banner_100_8e40f6608f",
+                    "mime": "image/png",
+                    "name": "thumbnail_banner-100.png",
+                    "path": null,
+                    "size": 19.1,
+                    "width": 245,
+                    "height": 131,
+                    "sizeInBytes": 19102
+                }
+            },
+            "hash": "banner_100_8e40f6608f",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 40.7,
+            "url": "https://ethical-card-5135af9639.media.strapiapp.com/banner_100_8e40f6608f.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "folderPath": "/",
+            "createdAt": "2024-03-25T14:08:38.114Z",
+            "updatedAt": "2024-03-26T03:05:54.183Z",
+            "folder": null,
+            "isUrlSigned": false,
+            "isSelectable": true,
+            "type": "asset"
+        }
+    ],
+    "content_HK": "讓家長認識如何透過親子玩樂與子女共建優質的親子時間，並為子女創造快樂的童年回憶，從而協助兒童愉快和健康成長。",
+    "programs": [
+        {
+            "__temp_key__": 0,
+            "district": {
+                "disconnect": [],
+                "connect": [
+                    {
+                        "id": 9,
+                        "position": {
+                            "end": true
+                        }
+                    }
+                ]
+            },
+            "location_HK": "北葵涌公共圖書館",
+            "displayTime_HK": "2024年4月23日（二）至2024年5月22日 （三）圖書館開放時間",
+            "startDate": "2024-04-23",
+            "endDate": "2024-05-22",
+            "startTime": "09:00:00",
+            "endTime": "17:00:00",
+            "target_HK": "公眾人士",
+            "quota_HK": "不適用",
+            "register_HK": "查詢電話 : 2421 4740"
+        },
+        {
+            "__temp_key__": 1,
+            "district": {
+                "disconnect": [],
+                "connect": [
+                    {
+                        "id": 9,
+                        "position": {
+                            "end": true
+                        }
+                    }
+                ]
+            },
+            "location_HK": "南葵涌公共圖書館",
+            "displayTime_HK": "2024年4月23日（二）至2024年5月22日 （三）圖書館開放時間",
+            "target_HK": "公眾人士",
+            "register_HK": "查詢電話 :2429 6338",
+            "period_HK": "不適用",
+            "quota_HK": "不適用",
+            "startDate": "2024-04-23",
+            "endDate": "2024-05-22",
+            "startTime": "09:00:00",
+            "endTime": "17:00:00"
+        },
+        {
+            "__temp_key__": 2,
+            "district": {
+                "disconnect": [],
+                "connect": [
+                    {
+                        "id": 9,
+                        "position": {
+                            "end": true
+                        }
+                    }
+                ]
+            },
+            "location_HK": "青衣公共圖書館",
+            "displayTime_HK": "2024年4月23日（二）至2024年5月22日 （三） 圖書館開放時間",
+            "target_HK": "公眾人士",
+            "quota_HK": "不適用",
+            "period_HK": "不適用",
+            "register_HK": "查詢電話 : 2497 2904",
+            "startDate": "2024-04-23",
+            "endDate": "2024-05-22",
+            "startTime": "09:00:00",
+            "endTime": "17:00:00"
+        }
+    ]
+}
